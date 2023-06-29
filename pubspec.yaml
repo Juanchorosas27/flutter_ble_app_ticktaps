@@ -29,8 +29,7 @@ environment:
 # versions available, run `flutter pub outdated`.
 dependencies:
   flutter:
-    sdk: flutter
-  flutter_blue: ^0.8.0
+    sdk: flutter  
   flutter_blue_plus: ^1.4.0
   get: ^4.6.5
 
